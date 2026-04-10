@@ -2,6 +2,8 @@
 
 Echo-based API + CLI for crawling a website and saving a rendered HTML snapshot (SPA/SSR/PWA).
 
+Based on tutorial : https://medium.com/juliansplayground/crawling-dynamic-websites-using-chromedp-in-go-660feee9126a 
+
 ## Requirements
 
 - Go 1.21+
